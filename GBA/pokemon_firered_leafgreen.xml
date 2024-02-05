@@ -462,6 +462,7 @@
             <property name="map_index"      type="int" address="0x2031DBC" length="2" />
             <!-- <property name="walk_run_state" type="int" address="0x2037078"  reference="walk_run_state"/> TODO: address -->
             <!-- <property name="safari_steps"  type="int" address="0x2039996" /> --> <!-- TODO: address -->
+            <property name="disabledEncounters" type="bool" address="0x020386DC" length="1"/>
         </overworld>
 
         <battle>
